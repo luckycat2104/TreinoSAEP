@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(214, 228, 180) !important;
+    color: rgb(57, 105, 11) !important;
+}
+
+.title{
+    font-family: 'Adhiguno', sans-serif;
+    font-size: 4vw;
+    margin-top: 10vh;
+    text-align: center;
+}
+
+.form-control{
+    width: 30% !important;
+    justify-content: center;
+    align-items: center !important; 
+    margin: auto;
+    border-color: transparent !important;
+    border-radius: 1vw !important;
+    background-color: transparent !important;
+    box-shadow: inset 0px 10px 20px rgb(167, 182, 131);
+}
+
+
+
+.btn{
+    background-color: transparent !important;
+    border-color: transparent !important;
+    box-shadow: 0px 7px 5px rgb(167, 182, 131);
+    color: rgb(93, 134, 54) !important;
+}
+
